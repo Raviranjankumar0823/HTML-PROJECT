@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.programs{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.programs .pro-box{
+    background-color: rgb(108, 243, 253);
+    margin: 25px;
+    padding: 25px;
+    border-radius: 20px;
+}
+
+.programs .pro-box p{
+    text-align: center;
+    font-size: 20px;
+}
+.programs .pro-box p a{
+    text-decoration: none;
+    color: #fff;
+}

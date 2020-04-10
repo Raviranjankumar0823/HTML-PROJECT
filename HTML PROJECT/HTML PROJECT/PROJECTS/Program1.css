@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.program{
+    margin: 50px;
+    background-color: rgb(39, 71, 211);
+    color: #fff;
+    font-size: 30px;
+}
